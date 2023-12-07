@@ -1,0 +1,5 @@
+outs:
+- md5: 5832e2f6484fd85cb5d121a596e9fa2b
+  size: 183613
+  hash: md5
+  path: CaseStudy_training_data.xlsx
